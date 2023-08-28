@@ -55,3 +55,8 @@ body{
 .search button img{
     width: 1.5rem;
 }
+
+.weather-icon{
+    width: 7.63rem;
+    margin-top: 1.88rem;
+}
